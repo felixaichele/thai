@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://felixaichele.github.io/thai/sitemap.xml
